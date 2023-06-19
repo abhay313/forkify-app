@@ -1,3 +1,3 @@
-# forkify Project
+# forkify App
 
-Recipe application with custom recipe uploads.
+Find recipe over 1,000,000.
